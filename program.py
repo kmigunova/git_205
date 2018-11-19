@@ -1,3 +1,3 @@
 print('My first Git program!!!!')
-# I am author
+# I am new author
 # 2018
